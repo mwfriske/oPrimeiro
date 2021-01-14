@@ -1,4 +1,5 @@
-Oi
+﻿Oi
+
 Oi de novo
 Oi mais uma vez
 Testando outro
@@ -6,3 +7,6 @@ Testando outro
 
 Lal
 lala
+Linha adicionada no Linux
+
+Linha adicionada pelo usuário marcelofriske (IFFAR)
