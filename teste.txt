@@ -1,3 +1,5 @@
 Oi
 
 Linha adicionada no Linux
+
+Linha adicionada pelo usuário marcelofriske (IFFAR)
