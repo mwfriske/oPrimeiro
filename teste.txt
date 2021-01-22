@@ -14,3 +14,5 @@ Linha adicionada pelo usuário marcelofriske (IFFAR)
 function f(){ //Desfazendo g()
 
 }
+
+Novo 
